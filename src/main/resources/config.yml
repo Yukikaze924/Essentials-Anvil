@@ -1,0 +1,16 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# | GENERAL SETTINGS                         |
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+General:
+
+  # If set to TRUE, there will be no more "Too Expensive" Message.
+  no-repair-limit: true
+
+  # Exp cost per repair and renaming.
+  repair-cost: 5
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# | MISC SETTINGS                   |
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+Miscellaneous:
+  debug: false
