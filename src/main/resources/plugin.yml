@@ -2,3 +2,4 @@ name: Anvil
 version: '${project.version}'
 main: org.carp.essentials.Anvil
 api-version: '1.20'
+folia-supported: true
